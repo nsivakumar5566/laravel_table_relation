@@ -1,5 +1,5 @@
 # Create Project
-> composer create-project laravel/laravel crud_relate
+> composer create-project laravel/laravel crud_relation
 
 # Configure the .env file
 > Database name, username and password
